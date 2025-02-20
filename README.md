@@ -20,10 +20,10 @@ The app was designed using Figma and follows Meta's design guidelines.
 
 ## Screenshots
 ![App Wireframe](images/Wireframe.png)
-![Onboarding Screen](images/Onboarding.png)
-![Profile Screen](images/Profile.png)
+![Onboarding Screen](images/OnboardingScreen.png)
+![Profile Screen](images/ProfileScreen.png)
 ![Home Screen Design](images/HomeScreen.png)
-![Home Screen Implementation](images/Home.png)
+![Home Screen Implementation](images/HomeScreenDesign.png)
 
 ## Style Guide
 [View Style Guide](docs/StyleGuide.pdf)
